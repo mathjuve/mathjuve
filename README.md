@@ -3,7 +3,7 @@
   <li>🌍  I'm based in São Vicente, Brazil</li>
   <li>🧠  I'm learning JavaScript, ReactJs, NodeJs</li>
   <li>🎓  Student of <a href="https://rodolfomori.com.br/devclub/">Dev Club</a></li>
-  <li>🤝  I'm open to collaborating on interesting projects as a developer</li>
+  <li>💪  I'm open to new challenges as a developer</li>
   
     
 </ul>
