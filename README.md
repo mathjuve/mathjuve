@@ -5,8 +5,8 @@
   <li>🤝 I'm open to collaborating on interesting projects as a developer</li>
 </ul>
 </div>
-    <div style="display: inline_block"><br>
-<div style="display: inline_block"><br>
+    <div style="display: inline block"><br>
+<div style="display: inline block"><br>
 
 <div align="center">
   <a href="https://github.com/mathjuve">
