@@ -1,9 +1,9 @@
 <ul>
-  <li>👋 Hi, I’m Matheus Oliveira! I'm Front-End Developer looking to become for Full Stack</li>
-  <li>🌍 I'm based in São Vicente, Brazil</li>
-  <li>🧠 I'm learning JavaScript, ReactJs, NodeJs</li>
-  <li>🎓 Student of <a href="https://rodolfomori.com.br/devclub/">Dev Club</a></li>
-  <li>🤝 I'm open to collaborating on interesting projects as a developer</li>
+  <li>👋  Hi, I’m Matheus Oliveira! I'm Front-End Developer looking to become for Full Stack</li>
+  <li>🌍  I'm based in São Vicente, Brazil</li>
+  <li>🧠  I'm learning JavaScript, ReactJs, NodeJs</li>
+  <li>🎓  Student of <a href="https://rodolfomori.com.br/devclub/">Dev Club</a></li>
+  <li>🤝  I'm open to collaborating on interesting projects as a developer</li>
   
     
 </ul>
